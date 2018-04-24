@@ -1,0 +1,11 @@
+David Jones|12345
+Edward Koroteev|myPassword
+Fred Miles|okay
+John Smith|pass
+admin|password
+aparrish|password
+clevinger|password
+ekoroteev|password
+lbooth|password
+mack|password
+remory|password
